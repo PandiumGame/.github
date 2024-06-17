@@ -86,5 +86,5 @@ PandiumGame – це інтерактивна гра, де головна мет
 ---
 
 ### Зображення
-![Піксельний референс](![image](https://github.com/PandiumGame/.github/assets/45416328/a47fd17c-761b-4fa9-9168-7551e44006d9)#)
-![Мультяшний вимір](![photo_2024-06-17_14-22-32](https://github.com/PandiumGame/.github/assets/45416328/2cf07b2f-a5f5-4240-98ac-453de6478f1d)#)
+![Піксельний референс]![image](https://github.com/PandiumGame/.github/assets/45416328/a47fd17c-761b-4fa9-9168-7551e44006d9)#
+![Мультяшний вимір]![photo_2024-06-17_14-22-32](https://github.com/PandiumGame/.github/assets/45416328/2cf07b2f-a5f5-4240-98ac-453de6478f1d)#
